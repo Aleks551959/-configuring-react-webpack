@@ -5,5 +5,5 @@
 </div>
 <h1>
   Easy setup of webpack and React 2023
-  <img src="https://giphy.com/embed/TdfyKrN7HGTIY" width="30px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE5eTZ0ODdxaHpwdTNieThzaW85cmtkNGFoMzljc2VtNmNoeWtmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
